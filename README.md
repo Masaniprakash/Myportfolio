@@ -14,7 +14,7 @@
 ### Project page 
 #### It have a all of my project repository links.
 ### Contact page 
-#### I instert my contact details in this page using Bootsrap.
+#### I insert my contact details in this page using Bootsrap.
 
 ## Click the link to view the project
 ### https://masaniprakash.github.io/Myportfolio/
